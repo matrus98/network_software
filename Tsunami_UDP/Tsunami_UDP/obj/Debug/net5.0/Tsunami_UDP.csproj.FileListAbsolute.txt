@@ -1,0 +1,48 @@
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.exe
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.deps.json
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.runtimeconfig.json
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.runtimeconfig.dev.json
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.dll
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\ref\Tsunami_UDP.dll
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.pdb
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.csproj.AssemblyReference.cache
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.GeneratedMSBuildEditorConfig.editorconfig
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.AssemblyInfoInputs.cache
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.AssemblyInfo.cs
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.csproj.CoreCompileInputs.cache
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.dll
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\ref\Tsunami_UDP.dll
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.pdb
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\client-server\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.genruntimeconfig.cache
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.exe
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.deps.json
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.runtimeconfig.json
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.runtimeconfig.dev.json
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.dll
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\ref\Tsunami_UDP.dll
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.pdb
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.csprojAssemblyReference.cache
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.AssemblyInfoInputs.cache
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.AssemblyInfo.cs
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.csproj.CoreCompileInputs.cache
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.dll
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\ref\Tsunami_UDP.dll
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.pdb
+D:\Studia\Studia Magisterskie\Rok I Semestr I\Programowanie Sieciowo Komunikacyjne\Laboratorium\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.genruntimeconfig.cache
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.exe
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.deps.json
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.runtimeconfig.json
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.runtimeconfig.dev.json
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.dll
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\ref\Tsunami_UDP.dll
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\bin\Debug\net5.0\Tsunami_UDP.pdb
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.csproj.AssemblyReference.cache
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.GeneratedMSBuildEditorConfig.editorconfig
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.AssemblyInfoInputs.cache
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.AssemblyInfo.cs
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.csproj.CoreCompileInputs.cache
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.dll
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\ref\Tsunami_UDP.dll
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.pdb
+K:\Studenci\PK\Prywatne\296784\s2\rok 1\Programowanie sieciowokomunikacyjne\Tsunami_UDP\Tsunami_UDP\obj\Debug\net5.0\Tsunami_UDP.genruntimeconfig.cache

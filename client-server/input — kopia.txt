@@ -1,0 +1,15 @@
+ping 3 General Kenobi alert
+chat msg Adrian Mateusz Hello there
+chat msg Mateusz Adrian General Kenobi!
+chat msg Mateusz Adrian Your lightsaber will be another in my collection
+chat getnow Adrian
+chat getnow Mateusz
+file dir .
+conf stop-service chat
+chat msg Adrian Mateusz Hello there twice
+chat getnow Adrian
+conf start-service chat
+chat msg Adrian Mateusz Hello trippled
+chat getnow Adrian
+conf stop-medium tcp
+conf start-medium tcp
